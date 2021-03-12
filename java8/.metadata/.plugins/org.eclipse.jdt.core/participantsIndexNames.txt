@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+D:\cognizantproject\POD\Matching\project\java8\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1614509691.index
+\iptms-UIportal\src\main\java
+D:\cognizantproject\POD\Matching\project\java8\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3470443715.index
+\ip-treatment-offering\src\main\java

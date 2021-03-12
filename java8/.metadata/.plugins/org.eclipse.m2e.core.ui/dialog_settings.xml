@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="D:\cognizantproject\POD\Matching\project\java8\insuranceclaim-service"/>
+			<item value="D:\cognizant\finalcheck2\java8\IPTMS-authorization"/>
+			<item value="D:\cognizant\finalcheck2\java8\insuranceclaim-service"/>
+			<item value="D:\cognizant\finalcheck2\java8\ip-treatment-offering"/>
+			<item value="D:\cognizant\finalcheck2\java8\ip-treatment-management"/>
+			<item value="D:\cognizant\finalcheck2\java8\iptms-UIportal"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>
